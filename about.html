@@ -1,55 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8" />
-    <title>Hospital Priceline</title>
-</head>
-<body>
-    <h1>Hospital Priceline</h1>
+{% extends "base.html" %} 
 
-    <!-- add in a simple find search to the table -->
-    <form action="/find-code" method="post">
-        <label for="search">Search by CPT code:</label>
-        <input type="text" name="search" id="search" />
-        <input type="submit" value="Search CPT" />
-    </form>
+{% block content %}
 
-    <br />
+    <section class="mb-6">
+        <h2 class="text-xl mb-2">About</h2>
+        <p>This is a healthcare application designed to manage patient data efficiently and securely.</p>
+    </section>
 
-    <form action="/find-code-description" method="post">
-        <label for="search">Search by CPT description:</label>
-        <input type="text" name="search" id="search" />
-        <input type="submit" value="Search Description" />
-    </form>
+    <section>
+        <h2 class="text-xl mb-2">Features</h2>
+        <ul class="list-disc pl-5">
+            <li>Secure patient data management</li>
+            <li>Easy appointment scheduling</li>
+            <li>Interactive dashboards for health metrics</li>
+        </ul>
+    </section>
 
-    <!-- create home button that directors to / -->
-    <br />
-    <form action="/" method="get">
-        <input type="submit" value="Reset Search" />
-    </form>
 
-    <br />
 
-    <h2>Random Sample of 100 Rows</h2>
-
-    <table>
-        <tr>
-            <th>CPT Code</th>
-            <th>CPT Description</th>
-            <th>Setting</th>
-            <th>Type</th>
-            <th>Price</th>
-        </tr>
-        {% for row in data.values %}
-        <tr>
-            <td>{{ row[0] }}</td>
-            <td>{{ row[1] }}</td>
-            <td>{{ row[2] }}</td>
-            <td>{{ row[3] }}</td>
-            <td>{{ row[4] }}</td>
-        <tr>
-            
-        </tr>
-        {% endfor %}
-</body>
-</html>
+{% endblock %}
