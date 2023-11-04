@@ -1,9 +1,9 @@
 # flask_5_tailwind
 
 
-# This is the hw 
+## This is the hw 
 
-# This is the code that I put in tailwind css
+### This is the code that I put in tailwind css
 <body class="bg-gray-100 font-sans">
     <header class="bg-purple-300 text-black text-center p-4">
         <h1 class="text-2xl">📎💈 Maliha's Flask App  🏘🐇 </h1>
