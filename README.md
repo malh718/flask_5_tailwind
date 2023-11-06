@@ -5,8 +5,18 @@
 <img width="1017" alt="Screen Shot 2023-11-05 at 9 06 32 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/647f145f-6981-4443-8999-18e6a6e721df">
 website: https://flaskhw-404222.ue.r.appspot.com/
 
+
+## Step 1
+I went online and I downloaded a cat video.
+
+## Step 2 - Google Cloud CDN
+I created a bucket using Google Cloud and changed the access to public. From here, I was able to get a url.
+<img width="1413" alt="Screen Shot 2023-11-05 at 9 12 23 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/bcb72c59-0e84-47a8-9edf-cba8fc0e4ce9">
+
+
 ##screenshot of tailwind
 <img width="617" alt="Screen Shot 2023-11-05 at 6 31 07 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/933601c4-c9ec-4895-b7b1-50755522a4ec">
+
 
 
 ### This is the code that I put in tailwind css
