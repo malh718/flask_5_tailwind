@@ -15,17 +15,12 @@ I created a bucket using Google Cloud and changed the access to public. From her
 
 ## Step 3- Flask App with TailwindCSS
 Using the URL and the code from class I was able to change styling and add my video.
-##screenshot of tailwind
-<img width="617" alt="Screen Shot 2023-11-05 at 6 31 07 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/933601c4-c9ec-4895-b7b1-50755522a4ec">
-
+<img width="1242" alt="Screen Shot 2023-11-05 at 6 30 59 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/98d556dd-de95-452e-bba1-1c9f50aed6ba">
 
 ## Step 4 Deploying on GCP 
 
 Initially I was going to deploy on Azure, but then I saw that my subsciption to Azure for Students was disabled, which was not a good sign. So that is why I switched to GCP, and thankfully was able to deploy successfully.
 
-
-##screenshot of tailwind
-<img width="617" alt="Screen Shot 2023-11-05 at 6 31 07 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/933601c4-c9ec-4895-b7b1-50755522a4ec">
 
 
 
