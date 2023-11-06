@@ -39,12 +39,21 @@ up to date <3
 Initially I was going to deploy on Azure, but then I saw that my subsciption to Azure for Students was disabled, which was not a good sign. So that is why I switched to GCP, and thankfully was able to deploy successfully.
 
 <img width="1436" alt="Screen Shot 2023-11-05 at 9 25 53 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/d1307879-266b-421c-b939-650fd07a1480">
-My video is responsive,
+
+
+My video is responsive:app deployed and running 
 <img width="1009" alt="Screen Shot 2023-11-05 at 9 27 12 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/4dbdad78-8547-49c0-9773-06310d1dad35">
+
+<img width="980" alt="Screen Shot 2023-11-05 at 9 41 35 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/f52be9a2-3d3f-426e-8fbe-e914580dddb7">
+
+
+
+<img width="923" alt="Screen Shot 2023-11-05 at 9 41 21 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/9fd586d6-a568-4b04-b562-5dd6d9859919">
+
+
 
 I was able to deploy the app, and then I disabled the application.
 
-app deployed and running 
 <img width="827" alt="Screen Shot 2023-11-05 at 9 26 42 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/cb7dd0b7-256e-42b9-9108-60f0e7a40d77">
 
 
