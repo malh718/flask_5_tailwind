@@ -24,11 +24,17 @@ Using the URL and the code from class I was able to change styling and add my vi
 ## Step 4 Deploying on GCP 
 
 Deploying the flask app through GCP was straightforward and I followed the instructions present in class 2 HHA 506. From Here I created a new project entitled Flaskhw which has an id flaskhw422239. From Here i did gcloud config set project [PROJECT_ID] with the correct ID. I then added a .yaml file because I realized I had not copied that over. I had to make sure that I was in the right directory. S0 that was flask_5_tailwind. From there I did gcloud app deploy.  
-<img width="708" alt="Screen Shot 2023-11-05 at 8 57 37 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/638560b6-c615-462f-adf5-7ae466492a20">
+
 <img width="911" alt="Screen Shot 2023-11-05 at 8 57 30 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/5ac72618-d363-43b3-a31d-f7054dcfe8c2">
+<img width="708" alt="Screen Shot 2023-11-05 at 8 57 37 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/638560b6-c615-462f-adf5-7ae466492a20">
 
+URL:https://flaskhw-404222.ue.r.appspot.com/
 
+An error that I ran into was that I kept trying to deploy the app and I was getting things that said ERROR: (gcloud.app) Command name argument expected. or command not found. But then I realized when I was copy and pasting gcloud app deploy, there must have been an added space or some weird formatting because then it ultimately worked!
+<img width="687" alt="Screen Shot 2023-11-05 at 9 37 05 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/dedd8554-d786-4746-9cc6-a8ecd78e0356">
 
+up to date <3
+<img width="656" alt="Screen Shot 2023-11-05 at 9 39 08 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/e616b31e-3552-49a3-b3a0-233aba96cd7c">
 
 Initially I was going to deploy on Azure, but then I saw that my subsciption to Azure for Students was disabled, which was not a good sign. So that is why I switched to GCP, and thankfully was able to deploy successfully.
 
