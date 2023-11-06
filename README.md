@@ -4,7 +4,7 @@
 ## This is the hw 
 
 ### This is the code that I put in tailwind css
-<body class="bg-gray-100 font-sans">
+<body class="bg-white-100 font-sans">
     <header class="bg-purple-300 text-black text-center p-4">
         <h1 class="text-2xl">📎💈 Maliha's Flask App  🏘🐇 </h1>
     </header>
@@ -20,11 +20,11 @@
 
     <div class="overflow-hidden rounded-lg bg-black">
     <video controls class="h-full w-full">
-        <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" type="video/mp4" />
+        <source src="https://storage.googleapis.com/flas/video_of_black_cat%20(Original).mp4" type="video/mp4" />
         Your browser does not support the video tag.
     </video>
     </div>
-   <p>This is a simple Flask app and I have imbedded a link to a video about Chromecast and game of thrones.</p>
+   <p>This is a simple Flask app and I have imbedded a link to a video of a cat.</p>
     </main>
     <div cl
     <footer class="text-center p-4 bg-purple-300 text-white">
