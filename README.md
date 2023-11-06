@@ -12,7 +12,7 @@ I went online and I downloaded a cat video.
 ## Step 2 - Google Cloud CDN
 I created a bucket using Google Cloud and changed the access to public. From here, I was able to get a url.
 
-I chose GCP because of my issue with Azure and I was nervous because we didnt go over it in class, but it was simple. When setting up the CDN, I would just double check that the setting are correct and that there is public access. It should then just let you copy the url.
+I chose GCP because of my issue with Azure and I was nervous because we didnt go over it in class, but it was simple. When setting up the CDN, I would just double check that the setting are correct and that there is public access. It should then just let you copy the url. Benefits of cdn include it was simple and quick to learn.
 
 assets served from cdn
 <img width="1413" alt="Screen Shot 2023-11-05 at 9 12 23 PM" src="https://github.com/malh718/flask_5_tailwind/assets/102617334/bcb72c59-0e84-47a8-9edf-cba8fc0e4ce9">
